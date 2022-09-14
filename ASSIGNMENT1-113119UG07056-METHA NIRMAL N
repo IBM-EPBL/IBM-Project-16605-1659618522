@@ -1,0 +1,92 @@
+﻿<html>
+<head>
+<title>resume formate</title>
+<style type="text/css">
+h1
+{
+color:red;
+}
+h2{
+color:red;
+}
+h3{
+color:black;
+}
+table,td,th
+{
+border:10px solid black;
+}
+th{
+background-color:green;
+color:white;
+}
+p{
+color:rose;
+}
+</style>
+</head>
+<body bgcolor="yellow">
+<h1><CENTER>RESUME</CENTER></h1>
+<pre>
+<div align="right">                                                       
+<h3> NO.620/750,thiruvottiyur,CHEENAI-600015
+CONTACTNO:9962754926
+EMAILID:nirmalmetha643@gmail.com                          
+</h3>
+</pre>
+<b><h1>METHA NIRMAL N</h1></b> 
+<hr></hr>
+<h2><b>CAREER OBJECTIVE:</b></h2>
+<pre>To  work  with full  strength  in  dynamic  organization  which  provide  new  challenge  that  help  to add
+value to  the  organizations  and  the  individuals .  Seeking  a  challenging  career  to  value on 
+time  performance  ,  where 	I  can enhance  my  working  skills ,  strength  and  experience  which  
+help  achieving  target.</pre>
+<h2><b>QUALIFICATION:</b></h2>
+<table border="10">
+   <tr>
+<th>COURSE</th> 
+<th>NAME OF INSTIUTION</th>
+<th>PLACE</th>
+<th>YEAR OF PASSING</th>
+</tr>
+<tr align=center>
+<td>SSLC</td><td>SRI SANKAR VIDYA SCHOOL</td><td>CHENNAI</td><td>2017</td></tr>
+<tr align=center>
+<td>HSC</td><td>SRI SANKAR VIDYA SCHOOL</td><td>CHENNAI</td><td>2019</td></tr>
+<tr align=center>
+<td>B.TECH</td><td>VEL TECH MULTI TECH</td><td>CHENNAI</td><td>2023</td></tr>
+
+</table>
+<h2><b>SKILLS:</h2></b>
+<ultype="disc">
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>PYTHON</li>
+  <li>CLOUD COMPUTING</li>
+</ul>
+<h2><b>HOBBY</B></h2>
+<ultype="disc">
+<li>playing game</li>
+<li>music</li>
+  <li>WATCHING MOVIE</li>
+
+</ul>
+
+<h2>PERSONAL PORFILE:</b></h2>
+<pre>
+<h3>
+FATHER NAME        :  P.Narayanan
+MOTHER NAME        :  N.Vijayalakshmi
+DATE  OF  BIRTH    :  06.12.2001
+SEX                :  MALE
+NATIONALITY        :  INDIAN
+RELIGION           :  HINDU
+LANGAUGE KNOWN     :  ENGLISH & TAMIL</h3>
+</pre>
+<h2><b>DECLARATION</b></h2>
+<pre>
+I here declare that the above information furnished here are true to the best of my knowledge 
+and hope that my capabilities will fit well to your requirement.</pre>     
+</body>
+</html>
