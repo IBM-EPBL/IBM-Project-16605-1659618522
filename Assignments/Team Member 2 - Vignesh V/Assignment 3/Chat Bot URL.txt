@@ -1,0 +1,27 @@
+4.Design a chatbot using IBM Watson assistant for hospital. Ex: User comes with query to know the branches 
+for that hospital in your city. Submit the web URL of that chat bot as a assignment.
+
+Chat bot URL:
+
+https://web-
+chat.global.assistant.watson.appdomain.cloud/preview.html?backgrou
+ndImageURL=https%3A%2F%2Fjp-
+tok.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-
+2cc0c89c-9396-4ee0-86fb-ca8aaf3338de%3A%3A8bcdad00-10dd-49cc-
+b5bc-cb79d0ccb1c3&integrationID=f8a3f409-6a45-462b-95ae-
+f4e12b1168d2&region=jp-tok&serviceInstanceID=2cc0c89c-9396-4ee0-
+86fb-ca8aaf3338de
+
+5.Create Watson assistant service with 10 steps and
+use 3 conditions in it. Load that script in HTML page.
+
+Chat Bot URL:
+
+https://web-
+chat.global.assistant.watson.appdomain.cloud/preview.html?backgrou
+ndImageURL=https%3A%2F%2Fjp-
+tok.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-
+2cc0c89c-9396-4ee0-86fb-ca8aaf3338de%3A%3Aa3007516-ea23-
+40b0-a05b-b59e9453afc3&integrationID=13538305-48e6-4162-aa4f-
+748d0dfccd2f&region=jp-tok&serviceInstanceID=2cc0c89c-9396-4ee0-
+86fb-ca8aaf3338de
