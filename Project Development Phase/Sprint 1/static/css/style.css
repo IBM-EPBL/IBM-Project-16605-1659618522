@@ -1,0 +1,10 @@
+
+.mt-100{
+    margin-top:100px;
+}
+.bg-nav{
+    background-image: url('https://nutri-assistant.s3.jp-tok.cloud-object-storage.appdomain.cloud/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
