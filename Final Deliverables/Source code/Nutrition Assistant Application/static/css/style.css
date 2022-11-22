@@ -1,0 +1,41 @@
+.bg-nav{
+    background: #00ff62;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ebdc15, #098dca);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d1ae10, #0decb4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.mt-100{
+    margin-top:100px;
+}
+.ml-20{
+    margin-left:20px;
+}
+.mt-75{
+    margin-top:75px;
+}
+.mt-65{
+    margin-top:65px;
+}
+.mt-200{
+    margin-top:200px;
+}
+.button1{
+    background-color: #4CAF50;
+}
+.ml-200{
+    margin-top:200px;
+}
+
+.mt-100{
+    margin-top:100px;
+}
+.bg-nav{
+    background-image: url('https://nutri-assistant.s3.jp-tok.cloud-object-storage.appdomain.cloud/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.card{
+    padding: 20px;
+    text-align: center;
+    
+}
